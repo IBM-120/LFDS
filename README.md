@@ -9,3 +9,12 @@ Our solution is a LoRa based fire detection and alert system that provides the i
 
 ![LoRA satlitejpg](https://user-images.githubusercontent.com/75197354/167242417-c5c04fd5-d315-4e58-b0b2-4099ffdeffe1.jpg)
 ![LORA](https://user-images.githubusercontent.com/75197354/167242423-2ccc6a21-f456-45b5-a2f6-8d131616cd96.jpg)
+
+
+
+
+CONTRIBUTIONS:
+  ATHUL S: Data preprocessing and raw data cleaning
+  DEVADATH A R : Coding for fire detection
+  SANJO JOSEPH : Train and test the system
+  SREEHARI S: Coding and testing in LoRA prototype 
